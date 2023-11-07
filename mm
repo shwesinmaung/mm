@@ -1,324 +1,320 @@
 [
-     {
+    {
         "link": "https://www.mediafire.com/file/ew79z323efnetaa/အထက်တန်းကျောင်းသူလေး.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/Picsart_23-11-04_19-45-10-592.jpg?raw=true",
-        "title": "နာမည်ကြီးနေတဲ့ အထက်တန်းကျောင်းသူ (ချစ်မိသွားပီ ခလေးရယ်)",
-        "info": "အစအဆုံး 15 မီနစ် မကြာမီလာမည်မျှော်"
+        "title": "နာမည်ကြီးနေတဲ့ အထက်တန်းကျောင်းသူ (ချစ်မိသွားပီ ခလေးရယ်)"
     },
     {
         "link": "https://www.mediafire.com/file/8vqc2s75ysy4omr/ငြင်းချိန်တောင်မရလိုက်ဘူး.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231026_222150.jpg?raw=true",
-        "title": "ငြင်းချိန်တောင်မရလိုက်ဘူး"  
+        "title": "ငြင်းချိန်တောင်မရလိုက်ဘူး"
     },
     {
         "link": "https://www.mediafire.com/file/2jn2wgthwoshs4p/အလိုက်သိတတ်တဲ့စော်လေး.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231026_222406.jpg?raw=true",
-        "title": "အလိုက်သိတတ်တဲ့စော်လေး"  
+        "title": "အလိုက်သိတတ်တဲ့စော်လေး"
     },
     {
         "link": "https://www.mediafire.com/file/k2vk28u6adrngya/မျက်နှာပေါ်+ပန်းတာကွာ.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231026_221949.jpg?raw=true",
-        "title": "မျက်နှာပေါ် ပန်းတာကွာ"  
+        "title": "မျက်နှာပေါ် ပန်းတာကွာ"
     },
     {
         "link": "https://www.mediafire.com/file/jzye8fw1myhx6f2/ရေချိုးချောင်းရိုက်.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231026_222329.jpg?raw=true",
-        "title": "ရေချိုးချောင်းရိုက်"  
+        "title": "ရေချိုးချောင်းရိုက်"
     },
     {
         "link": "https://www.mediafire.com/file/evk1jahisg14504/စော်မူးနေတုန်းလေး.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231026_222201.jpg?raw=true",
-        "title": "စော်မူးနေတုန်းလေး"  
+        "title": "စော်မူးနေတုန်းလေး"
     },
     {
         "link": "https://www.mediafire.com/file/l4bniw8qamwuujh/အချိန်မရတဲ့ကြားထဲက+စော်ကိုတောထဲခေါ်ပြီးစားသေးတာ.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231026_222355.jpg?raw=true",
-        "title": "အချိန်မရတဲ့ကြားထဲက စော်ကိုတောထဲခေါ်ပြီးစားသေးတာ"  
+        "title": "အချိန်မရတဲ့ကြားထဲက စော်ကိုတောထဲခေါ်ပြီးစားသေးတာ"
     },
     {
         "link": "https://www.mediafire.com/file/en3fjxzdygs7g72/တောထဲမှာဆွဲတဲ့မြန်မာ+အသံလေးနားထောင်ကြည့်.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231026_221654.jpg?raw=true",
-        "title": "တောထဲမှာဆွဲတဲ့မြန်မာ အသံလေးနားထောင်ကြည့်"  
+        "title": "တောထဲမှာဆွဲတဲ့မြန်မာ အသံလေးနားထောင်ကြည့်"
     },
     {
         "link": "https://www.mediafire.com/file/zxvxwyntg5ilkk8/တနေ့ကိုဘယ်နှစ်ခါလိုးလဲ..အောင်မလေးတဲ့.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231026_222228.jpg?raw=true",
-        "title": "တနေ့ကိုဘယ်နှစ်ခါလိုးလဲ..အောင်မလေးတဲ့"  
+        "title": "တနေ့ကိုဘယ်နှစ်ခါလိုးလဲ..အောင်မလေးတဲ့"
     },
     {
         "link": "https://www.mediafire.com/file/9ezyqxwlbg85yv7/နောက်ပေါက်ဖွင့်တာ+အားရတယ်ကွာ.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231026_222246.jpg?raw=true",
-        "title": "နောက်ပေါက်ဖွင့်တာ အားရတယ်ကွာ"  
+        "title": "နောက်ပေါက်ဖွင့်တာ အားရတယ်ကွာ"
     },
     {
         "link": "https://www.mediafire.com/file/2ezng0vkmypyysj/ကိုယ်တိုင်ရိုက်ပြီး+လိုးတာ.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231026_221031.jpg?raw=true",
-        "title": "ကိုယ်တိုင်ရိုက်ပြီး လိုးတာ"  
+        "title": "ကိုယ်တိုင်ရိုက်ပြီး လိုးတာ"
     },
     {
         "link": "https://www.mediafire.com/file/lmdjpwvua7uex9u/သူငယ်ချင်းကို+အမှတ်တရဆိုပြီး+လိုးတာ+(အစအဆုံးရပီ).mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/AddText_10-26-10.30.48.jpg?raw=true",
-        "title": "သူငယ်ချင်းကို အမှတ်တရဆိုပြီး လိုးတဲ့ကား (အစအဆုံးရပီ)",
-        "info": "နာမည်ကြီးနေတဲ့ကား just Friendဆိုပြီး ကောင်မလေးက အပေါ်ကနေတက်ဆောင့်တာ"
+        "title": "သူငယ်ချင်းကို အမှတ်တရဆိုပြီး လိုးတဲ့ကား (အစအဆုံးရပီ)"
     },
     {
         "link": "https://www.mediafire.com/file/ju12ztnvqist9iv/ချောင်းရိုက်တာမြင်သွားလို့+စော်ရှက်ရှက်နဲ့ထပြေးတာ.mp4/file",
         "image": "https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20231028_230209.jpg",
-        "title": "ချောင်းရိုက်တာမြင်သွားလို့ စော်ရှက်ရှက်နဲ့ထပြေးတာ"  
+        "title": "ချောင်းရိုက်တာမြင်သွားလို့ စော်ရှက်ရှက်နဲ့ထပြေးတာ"
     },
     {
         "link": "https://www.mediafire.com/file/r73f4ix7tnf4cln/အမကြီးစိတ်မပါသေးဘူးလားတဲ့.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231028_230751.jpg?raw=true",
-        "title": "အမကြီးစိတ်မပါသေးဘူးလားတဲ့"  
+        "title": "အမကြီးစိတ်မပါသေးဘူးလားတဲ့"
     },
     {
         "link": "https://www.mediafire.com/file/lr7o0pmz692yiht/အိမ်ကမိန်းမကို+လေးဘက်ထောက်လေးဆွဲ+ရှယ်ကြီး.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231028_230859.jpg?raw=true",
-        "title": "အိမ်ကမိန်းမကို လေးဘက်ထောက်လေးဆွဲ ရှယ်ကြီး"  
+        "title": "အိမ်ကမိန်းမကို လေးဘက်ထောက်လေးဆွဲ ရှယ်ကြီး"
     },
     {
         "link": "https://www.mediafire.com/file/ydg1jmxdr0bwo1t/ရှောက်သီးဖိုးမပေးလို့+တောထဲခေါ်လိုး.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231028_230630.jpg?raw=true",
-        "title": "ရှောက်သီးဖိုးမပေးလို့ တောထဲခေါ်လိုး"  
+        "title": "ရှောက်သီးဖိုးမပေးလို့ တောထဲခေါ်လိုး"
     },
     {
         "link": "https://www.mediafire.com/file/t0hg3y1kdxw9zeg/အခန်းမှာစော်လေးကိုခေါ်ပြီးကြိတ်တာ.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231028_230734.jpg?raw=true",
-        "title": "အခန်းမှာစော်လေးကိုခေါ်ပြီးကြိတ်တာ"  
+        "title": "အခန်းမှာစော်လေးကိုခေါ်ပြီးကြိတ်တာ"
     },
     {
         "link": "https://www.mediafire.com/file/0s3oe8br7rjg664/ငယ်ငယ်ချောချောလေး.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231028_230222.jpg?raw=true",
-        "title": "ငယ်ငယ်ချောချောလေး"  
+        "title": "ငယ်ငယ်ချောချောလေး"
     },
     {
         "link": "https://www.mediafire.com/file/65nloi1tbkoaiwd/မူးပြီးကွဲနေတဲ့ပိပိလေးကို+ဘဲကြီးကစိမ်ပြီးဆွဲ.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231028_230608.jpg?raw=true",
-        "title": "မူးပြီးကွဲနေတဲ့ပိပိလေးကို ဘဲကြီးကစိမ်ပြီးဆွဲ"  
+        "title": "မူးပြီးကွဲနေတဲ့ပိပိလေးကို ဘဲကြီးကစိမ်ပြီးဆွဲ"
     },
     {
         "link": "https://www.mediafire.com/file/kkfy206yh3kuwgd/မရတော့ဘူး+တော်ပြီတော်ပြီတဲ့.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231028_230551.jpg?raw=true",
-        "title": "မရတော့ဘူး တော်ပြီတော်ပြီတဲ့"  
+        "title": "မရတော့ဘူး တော်ပြီတော်ပြီတဲ့"
     },
     {
         "link": "https://www.mediafire.com/file/2dn8vebnxptqvxp/ဘူလေးလဲ+သိတယ်မဟုတ်လား.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231028_230539.jpg?raw=true",
-        "title": "ဘူလေးလဲ သိတယ်မဟုတ်လား"  
+        "title": "ဘူလေးလဲ သိတယ်မဟုတ်လား"
     },
     {
         "link": "https://www.mediafire.com/file/r2xgy216imqw4fe/လိုင်းခန်းကစော်ကြီးကို+နောက်ပေါက်ပါဖွင့်တာ+ရှယ်ကြီး.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231028_230708.jpg?raw=true",
-        "title": "လိုင်းခန်းကစော်ကြီးကို နောက်ပေါက်ပါဖွင့်တာ ရှယ်ကြီး"  
+        "title": "လိုင်းခန်းကစော်ကြီးကို နောက်ပေါက်ပါဖွင့်တာ ရှယ်ကြီး"
     },
     {
         "link": "https://www.mediafire.com/file/nea6gqk9s7uo6a9/ပိပိသေးသေးလေးကိုဆွဲတဲ့+17+မိနစ်အရှည်လေး.mp4/file",
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231028_230517.jpg?raw=true",
-        "title": "ပိပိသေးသေးလေးကိုဆွဲတဲ့ 17 မိနစ်အရှည်လေး"  
+        "title": "ပိပိသေးသေးလေးကိုဆွဲတဲ့ 17 မိနစ်အရှည်လေး"
     },
     {
         "link": "https://www.mediafire.com/file/g1zmgn7b7n9w6rx/အိုးကောင်းကောင်းနဲ့+ဆော်လေး.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231031_134904.jpg?raw=true",
-        "title": "အိုးကောင်းကောင်းနဲ့ ဆော်လေး"  
+        "title": "အိုးကောင်းကောင်းနဲ့ ဆော်လေး"
     },
     {
         "link": "https://www.mediafire.com/file/3t23j5w8ia75hcx/Bj+တစ်ပေါက်+နတ်ပြည်ရောက်.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231031_134517.jpg?raw=true",
-        "title": "Bj တစ်ပေါက် နတ်ပြည်ရောက်"  
+        "title": "Bj တစ်ပေါက် နတ်ပြည်ရောက်"
     },
     {
         "link": "https://www.mediafire.com/file/kmnskt73c5ji7i0/ဆောင့်ချက်က+ဥပါကွဲမယ်.mp4/file",
         "image": "https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231031_134556.jpg",
-        "title": "ဆောင့်ချက်က ဥပါကွဲမယ်"  
+        "title": "ဆောင့်ချက်က ဥပါကွဲမယ်"
     },
     {
         "link": "https://www.mediafire.com/file/oudh470v40kk1fv/ဖောင်းဖောင်းအကိတ်ကြီးကိုဆွဲ.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231031_134619.jpg?raw=true",
-        "title": "ဖောင်းဖောင်းအကိတ်ကြီးကိုဆွဲ"  
+        "title": "ဖောင်းဖောင်းအကိတ်ကြီးကိုဆွဲ"
     },
     {
         "link": "https://www.mediafire.com/file/h8bbcil6r30m1rg/မြန်မာမမကြီးကအပေါ်ကနေတက်ဖုတ်တာ+အသစ်လေး.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231031_134643.jpg?raw=true",
-        "title": "မြန်မာမမကြီးကအပေါ်ကနေတက်ဖုတ်တာ အသစ်လေး"  
+        "title": "မြန်မာမမကြီးကအပေါ်ကနေတက်ဖုတ်တာ အသစ်လေး"
     },
     {
         "link": "https://www.mediafire.com/file/cx2f2tvf2gheim3/ခိုးစားချောင်းရိုက်.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231031_134531.jpg?raw=true",
-        "title": "ခိုးစားချောင်းရိုက်"  
+        "title": "ခိုးစားချောင်းရိုက်"
     },
     {
         "link": "https://www.mediafire.com/file/5lmen5tp586099y/မြန်မာအိုးကြီးကိုနောက်ပေါက်ပါထည့်တာ+မိုက်နေတာဘဲ.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231031_134724.jpg?raw=true",
-        "title": "မြန်မာအိုးကြီးကိုနောက်ပေါက်ပါထည့်တာ မိုက်နေတာဘဲ"  
+        "title": "မြန်မာအိုးကြီးကိုနောက်ပေါက်ပါထည့်တာ မိုက်နေတာဘဲ"
     },
     {
         "link": "https://www.mediafire.com/file/y9ewdomm2wdamgm/မြန်မာဟော်တည်စားအလန်းလေး+အသံလေးပါ.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231031_134706.jpg?raw=true",
-        "title": "မြန်မာဟော်တည်စားအလန်းလေး အသံလေးပါ"  
+        "title": "မြန်မာဟော်တည်စားအလန်းလေး အသံလေးပါ"
     },
     {
         "link": "https://www.mediafire.com/file/bu3n681o7qpsrkr/စော်လေးက+မူနေတာ.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231031_134543.jpg?raw=true",
-        "title": "စော်လေးက မူနေတာ"  
+        "title": "စော်လေးက မူနေတာ"
     },
     {
         "link": "https://www.mediafire.com/file/7vdotpw9u1l9jgo/အကိတ်မအလန်းကြီးကိုရှယ်ဖြုတ်တာ+စောက်ရမ်းမိုက်တယ်m.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231031_134830.jpg?raw=true",
-        "title": "အကိတ်မအလန်းကြီးကိုရှယ်ဖြုတ်တာ စောက်ရမ်းမိုက်တယ်"  
+        "title": "အကိတ်မအလန်းကြီးကိုရှယ်ဖြုတ်တာ စောက်ရမ်းမိုက်တယ်"
     },
     {
         "link": "https://www.mediafire.com/file/agpe7vzatps64jh/လီးမဲမဲကို+ရှယ်ထိုးထည့်ပြီးလိုး.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231031_134748.jpg?raw=true",
-        "title": "လီးမဲမဲကို ရှယ်ထိုးထည့်ပြီးလိုး"  
+        "title": "လီးမဲမဲကို ရှယ်ထိုးထည့်ပြီးလိုး"
     },
     {
         "link": "https://www.mediafire.com/file/xc72v0pv0j7k8lm/စော်လေးကအလန်းလေးကွာ+ရှယ်တီးသွားတာ.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231102_154935.jpg?raw=true",
-        "title": "စော်လေးကအလန်းလေးကွာ ရှယ်တီးသွားတာ"  
+        "title": "စော်လေးကအလန်းလေးကွာ ရှယ်တီးသွားတာ"
     },
     {
         "link": "https://www.mediafire.com/file/lxfai3llip5shpa/ဟော်တယ်မှာအန်တီကြီးကိုဘုတဲ့ဘဲ.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231102_155440.jpg?raw=true",
-        "title": "ဟော်တယ်မှာအန်တီကြီးကိုဘုတဲ့ဘဲ"  
+        "title": "ဟော်တယ်မှာအန်တီကြီးကိုဘုတဲ့ဘဲ"
     },
     {
         "link": "https://www.mediafire.com/file/kkyqs3zd002g5s9/ရှယ်အိုးကြီးတွေ+ထန်ချက်.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231102_155403.jpg?raw=true",
-        "title": "ရှယ်အိုးကြီးတွေ ထန်ချက်"  
+        "title": "ရှယ်အိုးကြီးတွေ ထန်ချက်"
     },
     {
         "link": "https://www.mediafire.com/file/hkn4o5970h0pugd/တောသူမလေး+ဖလန်းဖလန်းထ.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231102_155101.jpg?raw=true",
-        "title": "တောသူမလေး ဖလန်းဖလန်းထ"  
+        "title": "တောသူမလေး ဖလန်းဖလန်းထ"
     },
     {
         "link": "https://www.mediafire.com/file/oxl9zw34crwxj05/မြန်မာအိုးလေးစောက်ရမ်းမိုက်တယ်+လုံးနေတာဘဲ.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231102_155351.jpg?raw=true",
-        "title": "မြန်မာအိုးလေးစောက်ရမ်းမိုက်တယ် လုံးနေတာဘဲ"  
+        "title": "မြန်မာအိုးလေးစောက်ရမ်းမိုက်တယ် လုံးနေတာဘဲ"
     },
     {
         "link": "https://www.mediafire.com/file/1q2ow6l5sxc2h4i/တောင်ကြီးသူကျောင်းဆရာမ+အသစ်လေး.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231102_154951.jpg?raw=true",
-        "title": "တောင်ကြီးသူကျောင်းဆရာမ အသစ်လေး"  
+        "title": "တောင်ကြီးသူကျောင်းဆရာမ အသစ်လေး"
     },
     {
         "link": "https://www.mediafire.com/file/ogmpnfh4udsf3ik/Daw+Pyae+Lay+အိုးကြီးကရှယ်ကြီး.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231102_154720.jpg?raw=true",
-        "title": "Daw Pyae Lay အိုးကြီးကရှယ်ကြီး"  
+        "title": "Daw Pyae Lay အိုးကြီးကရှယ်ကြီး"
     },
     {
         "link": "https://www.mediafire.com/file/6sjk4m332i8hp1p/ကောင်းလိုက်တဲ့အိုးကြီးကွာ+အပေးလဲကောင်းတယ်.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231102_154826.jpg?raw=true",
-        "title": "ကောင်းလိုက်တဲ့အိုးကြီးကွာ အပေးလဲကောင်းတယ်"  
+        "title": "ကောင်းလိုက်တဲ့အိုးကြီးကွာ အပေးလဲကောင်းတယ်"
     },
     {
         "link": "https://www.mediafire.com/file/5qmcyng8njhmh3v/ဟုမ်းမိတ်လေးနောက်တတွဲ.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231102_155425.jpg?raw=true",
-        "title": "ဟုမ်းမိတ်လေးနောက်တတွဲ"  
+        "title": "ဟုမ်းမိတ်လေးနောက်တတွဲ"
     },
     {
         "link": "https://www.mediafire.com/file/wciatl31ocmlxga/အဆိုတော်နဲ့+မော်ဒယ်မလေး+သိတယ်မဟုတ်လား.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231102_155502.jpg?raw=true",
-        "title": "အဆိုတော်နဲ့ မော်ဒယ်မလေး သိတယ်မဟုတ်လား"  
+        "title": "အဆိုတော်နဲ့ မော်ဒယ်မလေး သိတယ်မဟုတ်လား"
     },
     {
         "link": "https://www.mediafire.com/file/yfm6aix4dy992mz/လှည်းတန်းသူလေးတို့+စုံတွဲ.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231102_155412.jpg?raw=true",
-        "title": "လှည်းတန်းသူလေးတို့ စုံတွဲ"  
+        "title": "လှည်းတန်းသူလေးတို့ စုံတွဲ"
     },
     {
         "link": "https://www.mediafire.com/file/ek6osk9nfzvfbvr/ပါကင်မဖောက်ရသေးတဲ့မြန်မာမလေး+အသစ်အပိုင်း#+2.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231102_155322.jpg?raw=true",
-        "title": "ပါကင်မဖောက်ရသေးတဲ့မြန်မာမလေး အသစ်အပိုင်း# 2"  
+        "title": "ပါကင်မဖောက်ရသေးတဲ့မြန်မာမလေး အသစ်အပိုင်း# 2"
     },
     {
         "link": "https://www.mediafire.com/file/7lpb832huqbpi7v/ပါကင်မဖောက်ရသေးတဲ့မြန်မာမလေး+အသစ်အပိုင်း#+1.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231102_155214.jpg?raw=true",
-        "title": "ပါကင်မဖောက်ရသေးတဲ့မြန်မာမလေး အသစ်အပိုင်း# 1"  
+        "title": "ပါကင်မဖောက်ရသေးတဲ့မြန်မာမလေး အသစ်အပိုင်း# 1"
     },
     {
         "link": "https://www.mediafire.com/file/7a6eqyskuwdhhg7/ငပိန်မလေးကို+‌ဟော်တည်မှာဆွဲတာ+လန်းချက်.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231102_154844.jpg?raw=true",
-        "title": "ငပိန်မလေးကို ဟော်တည်မှာဆွဲတာ လန်းချက်"  
+        "title": "ငပိန်မလေးကို ဟော်တည်မှာဆွဲတာ လန်းချက်"
     },
     {
         "link": "https://www.mediafire.com/file/532pc0v468fe6ur/ပခုက္ကူတည်းခိုခန်းက+ချောင်းရိုက်လေး.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231104_194146.jpg?raw=true",
-        "title": "ပခုက္ကူတည်းခိုခန်းက ချောင်းရိုက်လေး"  
+        "title": "ပခုက္ကူတည်းခိုခန်းက ချောင်းရိုက်လေး"
     },
     {
         "link": "https://www.mediafire.com/file/s7jzxxw1ozt89lh/ဘဲမသိအောင်+bff+နဲ့ခိုးစား.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231104_194210.jpg?raw=true",
-        "title": "ဘဲမသိအောင် bff နဲ့ခိုးစား"  
+        "title": "ဘဲမသိအောင် bff နဲ့ခိုးစား"
     },
     {
         "link": "https://www.mediafire.com/file/laoy0r2s2hwyl4x/ဟိုတယ်မှာကုန်းတဲ့+လှည်းတန်းကအန်တီ.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231104_194256.jpg?raw=true",
-        "title": "ဟိုတယ်မှာကုန်းတဲ့ လှည်းတန်းကအန်တီ"  
+        "title": "ဟိုတယ်မှာကုန်းတဲ့ လှည်းတန်းကအန်တီ"
     },
     {
         "link": "https://www.mediafire.com/file/8t9ym0vhn6e30y3/ခိုးစားပါတယ်ဆိုမှ+ချောင်းရိုက်နဲ့တိုး.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231104_194046.jpg?raw=true",
-        "title": "ခိုးစားပါတယ်ဆိုမှ ချောင်းရိုက်နဲ့တိုး"  
+        "title": "ခိုးစားပါတယ်ဆိုမှ ချောင်းရိုက်နဲ့တိုး"
     },
     {
         "link": "https://www.mediafire.com/file/2j1ylz23dwst4xt/စားသွားတာကတစ်‌ယောက်+ညားတော့တစ်ယောက်.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231104_194126.jpg?raw=true",
-        "title": "လိုးသွားတာကတစ်ယောက် ညားတော့တစ်ယောက်"  
+        "title": "လိုးသွားတာကတစ်ယောက် ညားတော့တစ်ယောက်"
     },
     {
         "link": "https://www.mediafire.com/file/zzoc1xywtinzgdi/ရှက်တော့ရှက်တယ်+ခံချင်တယ်.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231104_194240.jpg?raw=true",
-        "title": "ရှက်တော့ရှက်တယ် ခံချင်တယ်"  
+        "title": "ရှက်တော့ရှက်တယ် ခံချင်တယ်"
     },
-   
     {
         "link": "https://www.mediafire.com/file/hcfgxbanqy8a11u/ဆံပင်+အဖုတ်ထိရှည်လာကြောင်းလေးပြသွားတာ.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231106_205233.jpg?raw=true",
-        "title": "ဆံပင် အဖုတ်ထိရှည်လာကြောင်းလေးပြသွားတာ"  
+        "title": "ဆံပင် အဖုတ်ထိရှည်လာကြောင်းလေးပြသွားတာ"
     },
     {
         "link": "https://www.mediafire.com/file/qbh5x5uvn73kmpm/မြန်မာမလေးကို+လေးဘက်ထောက်ဆွဲတာ.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231106_205429.jpg?raw=true",
-        "title": "မြန်မာမလေးကို လေးဘက်ထောက်ဆွဲတာ"  
+        "title": "မြန်မာမလေးကို လေးဘက်ထောက်ဆွဲတာ"
     },
     {
         "link": "https://www.mediafire.com/file/ajyduix2sqetae5/မြန်မာမလေးကို+ဆေးထိုးပြီးမှ+ကင်တဲ့ဘဲကြီးm.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231106_205407.jpg?raw=true",
-        "title": "မြန်မာမလေးကို ဆေးထိုးပြီးမှ ကင်တဲ့ဘဲကြီး"  
+        "title": "မြန်မာမလေးကို ဆေးထိုးပြီးမှ ကင်တဲ့ဘဲကြီး"
     },
     {
         "link": "https://www.mediafire.com/file/ochkxrj53f40uz9/လမ်းဘေးတောထဲမှာလိုးတဲ့+မြန်မာ+အသံလေးနားထောင်.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231106_205450.jpg?raw=true",
-        "title": "လမ်းဘေးတောထဲမှာလိုးတဲ့ မြန်မာ အသံလေးနားထောင်"  
+        "title": "လမ်းဘေးတောထဲမှာလိုးတဲ့ မြန်မာ အသံလေးနားထောင်"
     },
     {
         "link": "https://www.mediafire.com/file/38884x2mhyton5y/ဒါမျိုးတာလိုးရရင်+စောက်ရမ်းတန်တယ်+အငုံးလေး.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231106_205256.jpg?raw=true",
-        "title": "ဒါမျိုးတာလိုးရရင် စောက်ရမ်းတန်တယ် အငုံးလေး"  
+        "title": "ဒါမျိုးတာလိုးရရင် စောက်ရမ်းတန်တယ် အငုံးလေး"
     },
     {
         "link": "https://www.mediafire.com/file/yr6t9ynzm7o7vr8/အရေးအကြောင်းဆို+လီးကမတောင်ချင်ဘူး.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231106_205502.jpg?raw=true",
-        "title": "အရေးအကြောင်းဆို လီးကမတောင်ချင်ဘူး"  
+        "title": "အရေးအကြောင်းဆို လီးကမတောင်ချင်ဘူး"
     },
     {
         "link": "https://www.mediafire.com/file/tf3rwycfxbccqot/စပ်တယ်သာအော်နေတာ+စော်ကဖီးလ်တက်နေပီ.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231106_205214.jpg?raw=true",
-        "title": "စပ်တယ်သာအော်နေတာ စော်ကဖီးလ်တက်နေပီ"  
+        "title": "စပ်တယ်သာအော်နေတာ စော်ကဖီးလ်တက်နေပီ"
     },
     {
         "link": "https://www.mediafire.com/file/01ctkwh81fb6igq/မြန်မာဆရာဝန်မလေးကို+လိုးတဲ့ဘဲကြီး.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/IMG_20231106_205337.jpg?raw=true",
-        "title": "မြန်မာဆရာဝန်မလေးကို လိုးတဲ့ဘဲကြီး"  
+        "title": "မြန်မာဆရာဝန်မလေးကို လိုးတဲ့ဘဲကြီး"
     },
     {
         "link": "https://www.mediafire.com/file/momz66owl2gpge4/ကျောင်းသူလေး+အစအဆုံး.mp4/file",
         "image": "https://github.com/minimyanmar/P8/blob/main/AddText_11-06-08.51.37.jpg?raw=true",
-        "title": "နာမည်ကြီးကျောင်းသူလေး အစအဆုံး (ချစ်စရာလေးကွာ)"  
+        "title": "နာမည်ကြီးကျောင်းသူလေး အစအဆုံး (ချစ်စရာလေးကွာ)"
     },
-
-    ,
+    
     {
         "link": "https://www.mediafire.com/file/0zwg9gub009ehyi/မြန်မာအကိတ်လေးကိုဆွဲ.mp4/file",
         "image": "https://github.com/minimyanmar/photo1/blob/main/IMG_20231002_220547.jpg?raw=true",
@@ -939,8 +935,6 @@
         "image": "https://github.com/minimyanmar/p4/blob/main/IMG_20231025_003532.jpg?raw=true",
         "title": "စာမသင်ဘဲနဲ့အိမ်သာထဲမှာသွားထန်တဲ့ ကျောင်းဆရာမလေး"
     },
-
-    
     {
         "link": "https://www.mediafire.com/file/07seesj1hmnxx2l/203.mp4/file",
         "image": "https://raw.githubusercontent.com/shawlin247/mmphoto/main/founddie.com-2-2.jpg",
