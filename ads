@@ -1,8 +1,8 @@
 {
-"topbannerimg": "",
-"topbannerlink": "",
-"topbannermessenger": "",
-"topbanneronoff": "",
+"topbannerimg": "https://raw.githubusercontent.com/shwesinmaung/ads/main/Bravo-m9-skm2.gif",
+"topbannerlink": "viber://add?number=959404489110",
+"topbannermessenger": "no",
+"topbanneronoff": "on",
 
 
 
@@ -11,16 +11,16 @@
 "intermessenger": "",
 "interonoff": "",
 
-"seeallimg": "",
-"seealllink": "",
-"seeallmessenger": "",
-"seeallonoff": "",
+"seeallimg": "https://raw.githubusercontent.com/shwesinmaung/ads/main/Bravo-m9-skm2.gif",
+"seealllink": "viber://add?number=959404489110",
+"seeallmessenger": "no",
+"seeallonoff": "on",
 
 
-"bannerimg": "",
-"bannerlink": "",
-"bannermessenger": "",
-"banneronoff": ""
+"bannerimg": "https://raw.githubusercontent.com/shwesinmaung/ads/main/Bravo-m9-skm2.gif",
+"bannerlink": "viber://add?number=959404489110",
+"bannermessenger": "no",
+"banneronoff": "on"
 
 
 }
