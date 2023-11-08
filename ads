@@ -2,7 +2,7 @@
 "topbannerimg": "https://raw.githubusercontent.com/shwesinmaung/ads/main/Bravo-m9-skm2.gif",
 "topbannerlink": "viber://add?number=959404489110",
 "topbannermessenger": "no",
-"topbanneronoff": "on",
+"topbanneronoff": "off",
 
 
 
@@ -14,13 +14,13 @@
 "seeallimg": "https://raw.githubusercontent.com/shwesinmaung/ads/main/Bravo-m9-skm2.gif",
 "seealllink": "viber://add?number=959404489110",
 "seeallmessenger": "no",
-"seeallonoff": "on",
+"seeallonoff": "off",
 
 
 "bannerimg": "https://raw.githubusercontent.com/shwesinmaung/ads/main/Bravo-m9-skm2.gif",
 "bannerlink": "viber://add?number=959404489110",
 "bannermessenger": "no",
-"banneronoff": "on"
+"banneronoff": "off"
 
 
 }
